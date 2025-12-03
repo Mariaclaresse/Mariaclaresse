@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🔸 Currently studying on: **Bachelor of Science in Information Technology (BSIT)**  
-- 🌱 I’m learning / improving skills in **Dart / Flutter**, **Python**, and other programming tools.  
-- 👯 I’m open to collaborate on **mobile apps, UI components, small projects, learning-oriented code**.  
-- 💡 I enjoy **UI design, clean code, learning new frameworks, building useful small projects**.  
+- 🔸 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**  
+- 🌱 Actively developing **websites and mobile applications** using **Flutter, Dart, Python, HTML, CSS, and JavaScript**  
+- 👯 Open to collaborating on **web development projects, mobile apps, UI/UX design, and student-based systems**  
+- 💡 Passionate about **building responsive websites, functional mobile apps, clean code, and user-friendly designs** 
 - 📫 How to reach me: **onilebas.mariaclaresse@gmail.com**
 
 ---
