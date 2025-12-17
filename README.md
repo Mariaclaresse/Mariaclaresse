@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=3000&pause=1200&color=1F2937&center=true&vCenter=true&width=750&lines=Hello%2C+I%27m+Maria+Claresse+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maria+Claresse+%F0%9F%91%8B;Building+PawScan+%F0%9F%90%BE" />
 
 ### *Aspiring IT Professional | Developer | Creative Thinker*
 
 💻 **BSIT Student** | 🌐 **Web & Mobile App Developer** | 🎨 **UI/UX Enthusiast**
+
+---
+
+🌟 **I am currently working on a new application system project called**
+## 🦴 **PawScan**
+### *An AI-powered Image Classifier for Different Dog Breeds*
+
+PawScan focuses on **accuracy, usability, and accessibility**, combining  
+machine learning with a clean and user-friendly design.
 
 </div>
 
@@ -18,8 +27,6 @@
 - 🤝 Open to collaborating on **web development, mobile apps, UI/UX design, and student-based systems**
 - 💡 Passionate about **responsive design, clean code, and intuitive user experiences**
 - 📬 How to reach me: **onilebas.mariaclaresse@gmail.com**
-
-</div>
 
 ---
 
@@ -64,14 +71,6 @@
 [![](https://visitcount.itsvg.in/api?id=Mariaclaresse&icon=2&color=12)](https://visitcount.itsvg.in)
 
 </div>
-
----
-
-## 🦴 PawScan
-### *An AI-powered Image Classifier for Different Dog Breeds*
-
-PawScan focuses on **accuracy, usability, and accessibility**, combining  
-machine learning with a clean and user-friendly design.
 
 ---
 
