@@ -1,30 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=32&
-duration=3000&
-pause=1000&
-color=F75C7E&
-center=true&
-vCenter=true&
-width=650&
-lines=Hi%2C+I'm+Maria+Claresse+%F0%9F%91%8B;Building+PawScan+%F0%9F%90%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maria+Claresse+%F0%9F%91%8B;Building+PawScan+%F0%9F%90%BE" />
 
 ### *Aspiring IT Professional | Developer | Creative Thinker*
 
 💻 **BSIT Student** | 🌐 **Web & Mobile App Developer** | 🎨 **UI/UX Enthusiast**
-
----
-
-🌟 **I am currently working on a new application system project called**
-## 🦴 **PawScan**
-### *An AI-powered Image Classifier for Different Dog Breeds*
-
-PawScan focuses on **accuracy, usability, and accessibility**, combining  
-machine learning with a clean and user-friendly design.
-
-</div>
 
 ---
 
@@ -83,5 +63,15 @@ machine learning with a clean and user-friendly design.
 
 ---
 
+🌟 **I am currently working on a new application system project called**
+## 🦴 **PawScan**
+### *An AI-powered Image Classifier for Different Dog Breeds*
+
+PawScan focuses on **accuracy, usability, and accessibility**, combining  
+machine learning with a clean and user-friendly design.
+
+</div>
+
+---
 *Last updated on:* **2025-11-26**  
 <!-- Proudly created with GPRM -->
