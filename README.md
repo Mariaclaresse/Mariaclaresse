@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=BAB86C&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Maria+Claresse+%F0%9F%91%8B;Building+PawScan+%F0%9F%90%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=636B2F&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Maria+Claresse+%F0%9F%91%8B" />
 
 ### *Aspiring IT Professional | Developer | Creative Thinker*
 
@@ -10,12 +10,12 @@
 
 ## 💫 About Me
 
-- 🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
-- 🚀 Actively developing **websites and mobile applications**
-- 🛠️ Technologies I use: **Flutter, Dart, Python, HTML, CSS, and JavaScript**
-- 🤝 Open to collaborating on **web development, mobile apps, UI/UX design, and student-based systems**
-- 💡 Passionate about **responsive design, clean code, and intuitive user experiences**
-- 📬 How to reach me: **onilebas.mariaclaresse@gmail.com**
+🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
+🚀 Actively developing **websites and mobile applications**
+🛠️ Technologies I use: **Flutter, Dart, Python, HTML, CSS, and JavaScript**
+🤝 Open to collaborating on **web development, mobile apps, UI/UX design, and student-based systems**
+ Passionate about **responsive design, clean code, and intuitive user experiences**
+ 📬 How to reach me: **onilebas.mariaclaresse@gmail.com**
 
 ---
 
