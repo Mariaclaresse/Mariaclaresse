@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=636B2F&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Maria+Claresse+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello%2C+I%27m+Maria+Claresse+✨" />
 
 ### *Aspiring IT Professional | Developer | Creative Thinker*
 
@@ -10,12 +10,14 @@
 
 ## 💫 About Me
 
-🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
-🚀 Actively developing **websites and mobile applications**
-🛠️ Technologies I use: **Flutter, Dart, Python, HTML, CSS, and JavaScript**
-🤝 Open to collaborating on **web development, mobile apps, UI/UX design, and student-based systems**
- Passionate about **responsive design, clean code, and intuitive user experiences**
- 📬 How to reach me: **onilebas.mariaclaresse@gmail.com**
+- 🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
+- 🚀 Actively developing **websites and mobile applications**
+- 🛠️ Technologies I use: **Flutter, Dart, Python, HTML, CSS, and JavaScript**
+- 🤝 Open to collaborating on **web development, mobile apps, UI/UX design, and student-based systems**
+- 💡 Passionate about **responsive design, clean code, and intuitive user experiences**
+- 📬 How to reach me: **onilebas.mariaclaresse@gmail.com**
+
+</div>
 
 ---
 
@@ -63,15 +65,13 @@
 
 ---
 
-🌟 **I am currently working on a new application system project called**
-## 🦴 **PawScan**
+## 🦴 PawScan
 ### *An AI-powered Image Classifier for Different Dog Breeds*
 
 PawScan focuses on **accuracy, usability, and accessibility**, combining  
 machine learning with a clean and user-friendly design.
 
-</div>
-
 ---
+
 *Last updated on:* **2025-11-26**  
 <!-- Proudly created with GPRM -->
