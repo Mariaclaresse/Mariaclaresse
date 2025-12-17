@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines= Hello%2C+I'm+Maria+Claresse+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Maria+Claresse+%F0%9F%91%8B;Building+PawScan+%F0%9F%90%BE" />
 
 ### *Aspiring IT Professional | Developer | Creative Thinker*
 
@@ -19,7 +19,7 @@ machine learning with a clean and user-friendly design.
 
 ---
 
-## 💫 ABOUT ME
+## 💫 About Me
 
 - 🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
 - 🚀 Actively developing **websites and mobile applications**
