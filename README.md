@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=3000&pause=1200&color=E5E7EB&center=true&vCenter=true&width=800&lines=Hello%2C+I%27m+Maria+Claresse+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello%2C+I%27m+Maria+Claresse+✨" />
 
 ### *Aspiring IT Professional | Developer | Creative Thinker*
 
